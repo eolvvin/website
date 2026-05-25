@@ -19,8 +19,7 @@ The official website for **Edwin Ong's Emergence Unified Framework — The Canva
 
 ## 🎨 Design
 
-- **Continuum Mode** — Dark cosmic theme with radial gradient background, animated CRT green grid with pulsing spacing, blue wavy grid overlay with white/colored star-like intersection sparkles
-- **Discreet Mode** — Retro CRT terminal aesthetic with phosphor green scanlines, flicker effects, monospace typography, and spring-open page transitions
+- Dark cosmic theme with radial gradient background, animated CRT green grid with pulsing spacing, blue wavy grid overlay with white/colored star-like intersection sparkles
 - KaTeX-rendered mathematical equations
 - Responsive design with mobile support
 - Smooth page navigation with sticky nav bar
