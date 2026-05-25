@@ -34,18 +34,20 @@ The official website for **Edwin Ong's Emergence Unified Framework — The Canva
 - Google Fonts (DM Sans, Manrope, VT323, Share Tech Mono, Press Start 2P)
 
 ## 📂 File Structure
-├── index.html
-├── continuum.css
-├── discreet.css
-├── script.js
-├── data-home.js
-├── data-millennium.js
-├── data-derivations.js
-├── data-predictions.js
-├── data-physics.js
-├── data-series.js
-├── data-framework.js
-└── data-about.js
+
+`index.html` — Main HTML entry point  
+`continuum.css` — Continuum (cosmic) theme styles  
+`discreet.css` — Discreet (CRT terminal) theme styles  
+`script.js` — Navigation, rendering, canvas animation  
+`data-home.js` — Home page content generator  
+`data-millennium.js` — Millennium Prizes page content  
+`data-derivations.js` — Derivations page content  
+`data-predictions.js` — Predictions page content  
+`data-physics.js` — Physics Problems page content  
+`data-series.js` — Emergence Series page content  
+`data-framework.js` — Framework page content  
+`data-about.js` — About page content  
+`README.md` — This file
 
 ## 📚 All Papers on Zenodo
 
