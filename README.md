@@ -4,7 +4,7 @@ The official website for **Edwin Ong's Emergence Unified Framework — The Canva
 
 ## 🌐 Live Site
 
-**[username.github.io/repository-name](https://username.github.io/repository-name)**
+**[eolvvin.github.io](https://eolvvin.github.io)**
 
 ## 🌐 Website Features
 
