@@ -34,3 +34,27 @@ The official website for **Edwin Ong's Emergence Unified Framework — The Canva
 - Google Fonts (DM Sans, Manrope, VT323, Share Tech Mono, Press Start 2P)
 
 ## 📂 File Structure
+├── index.html
+├── continuum.css
+├── discreet.css
+├── script.js
+├── data-home.js
+├── data-millennium.js
+├── data-derivations.js
+├── data-predictions.js
+├── data-physics.js
+├── data-series.js
+├── data-framework.js
+└── data-about.js
+
+## 📚 All Papers on Zenodo
+
+[zenodo.org/communities/emergence](https://zenodo.org/communities/emergence)
+
+## 📧 Contact
+
+[@eolvvin](https://x.com/eolvvin)
+
+---
+
+*"From wave to world — a pre-geometric canvas, eight primitives, one unified theory."*
