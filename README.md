@@ -1,4 +1,4 @@
-# Canvas Model · Emergence — Unified Physics & Mathematics Website
+# Canvas Model · Emergence — Unified Framework Website
 
 The official website for **Edwin Ong's Emergence Unified Framework — The Canvas Model**, a pre-geometric theory that derives all known physics from eight primitives and two feed-modes (Steering and Driving) on a discrete canvas.
 
@@ -30,7 +30,6 @@ The official website for **Edwin Ong's Emergence Unified Framework — The Canva
 - Vanilla HTML, CSS, and JavaScript
 - KaTeX for mathematical typesetting
 - Canvas API for animated background
-- Google Fonts (DM Sans, Manrope, VT323, Share Tech Mono, Press Start 2P)
 
 ## 📂 File Structure
 
